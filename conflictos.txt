@@ -1,3 +1,2 @@
 “Este es un contenido para hacer pruebas.”
-
-Problemitas
+Tengo un problema con Git
